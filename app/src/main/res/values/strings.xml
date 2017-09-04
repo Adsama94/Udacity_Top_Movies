@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Top Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="check_connection">Please check internet connection to continue</string>
+    <string name="internet_connected">Internet Active!</string>
+    <string name="no_results">UNABLE TO FETCH RESULTS</string>
+    <string name="base_url">api.themoviedb.org</string>
+    <string name="base_image_url">http://image.tmdb.org/t/p/w500</string>
+    <string name="backdrop_url">http://image.tmdb.org/t/p/original</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="release_date_missing">Release date is unknown</string>
+    <string name="unable_to_connect">UNABLE TO CONNECT!</string>
+    <string name="average_rating">Rating</string>
+    <string name="release_date">Released</string>
+    <string name="sort_by">Sort Order</string>
+    <string name="settings_title">Sort Settings</string>
+    <string name="preference_sort_popular" translatable="false">popular</string>
+    <string name="preference_sort_top_rated" translatable="false">top_rated</string>
+    <string name="preference_sort_key" translatable="false">sortBy</string>
+    <string name="check_internet_connection_or_try_again_later">Check internet connection or try again later!</string>
+    <string name="erm_we_ve_encountered_an_error">Erm, We\'ve encountered an error!</string>
+    <string name="add_to_favorites">MARK IN FAVORITES</string>
+    <string name="remove_from_favorites">REMOVE FROM FAVORITES</string>
+    <string name="trailer_thumbnail_url">http://img.youtube.com/vi/</string>
+    <string name="trailers">TRAILERS</string>
+    <string name="reviews">REVIEWS</string>
+    <string name="favorite_movies_will_appear_here">Favorite movies will appear here.</string>
+    <string name="no_favorite_movies_to_show">NO FAVORITE MOVIES TO SHOW!</string>
+    <string name="click_on_the_image_above_to_go_back">Click on the image above to go back.</string>
+</resources>
