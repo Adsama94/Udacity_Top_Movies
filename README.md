@@ -11,7 +11,7 @@ Built as a project under Udacity's Android Developer Nanodegree curriculum.
  
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884493.png)
  
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884512.png)
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525885758.png)
  
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884521.png)
  
