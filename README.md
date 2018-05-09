@@ -5,8 +5,24 @@ Built as a project under Udacity's Android Developer Nanodegree curriculum.
 <br>Add your key to the **gradle.properties** file.
 
     API_KEY = "YOUR KEY GOES HERE"
-    
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525870803.png)
+ 
+ **MOBILE**
+ 
+ 
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884493.png)
+ 
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884512.png)
+ 
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884521.png)
+ 
+ **TABLET**
+ 
+ 
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884960.png)
+ 
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884933.png)
+ 
+ 
 # License
 You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
