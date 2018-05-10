@@ -9,18 +9,18 @@ Built as a project under Udacity's Android Developer Nanodegree curriculum.
  **MOBILE**
  
  
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884493.png)
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s5.png)
  
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525885758.png)
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s1.png)
  
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884521.png)
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s4.png)
  
  **TABLET**
  
  
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884960.png)
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s2.png)
  
- ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/Screenshot_1525884933.png)
+ ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s3.png)
  
  
 # License
