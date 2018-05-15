@@ -10,16 +10,13 @@ Built as a project under Udacity's Android Developer Nanodegree curriculum.
  
  
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s5.png)
- 
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s1.png)
- 
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s4.png)
  
  **TABLET**
  
  
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s2.png)
- 
  ![alt text](https://github.com/Adsama94/Udacity_Top_Movies/blob/master/s3.png)
  
  
